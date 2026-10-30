@@ -1,0 +1,5 @@
+Electric guitar samples: Electric Guitar FSBS (clean), FreePats
+Source: https://github.com/freepats/electric-guitar-FSBS-clean
+Instrument recorded from a Fender electric guitar and processed with amp/effects.
+License: CC0 1.0 Universal (public domain dedication)
+This project uses the 13 bridge samples in samples/bridge/small, pitch-shifted to the notes used by the C major scale.

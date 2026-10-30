@@ -1,0 +1,5 @@
+These browser WAV files are converted from the corresponding samples in ../electric_guitar/.
+Original instrument: Electric Guitar FSBS (clean), FreePats
+Source: https://github.com/freepats/electric-guitar-FSBS-clean
+License: CC0 1.0 Universal (public domain dedication)
+Conversion: 32 kHz, stereo, 16-bit PCM WAV for browser playback. The application adds overdrive with Web Audio.

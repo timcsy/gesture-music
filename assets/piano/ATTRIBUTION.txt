@@ -1,0 +1,4 @@
+Piano samples: Meta Open Sound — Meta Piano
+Source: https://github.com/facebookincubator/Meta-open-sound
+License: CC0 1.0 Universal (public domain dedication)
+This project uses Vel03 OGG preview samples for notes C3 through B5.
